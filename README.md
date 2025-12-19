@@ -1,4 +1,4 @@
-# 🌐 Praktikum — Parsing Data HTTP, JSON & XML
+# 🌐 Praktikum 2 — Parsing Data HTTP, JSON & XML
 
 Praktikum ini membahas **pengiriman request HTTP** serta **analisis response API** dengan membandingkan **format data JSON dan XML**. Pengujian dilakukan menggunakan **Postman** dan **Browser DevTools (Network Panel)** untuk mengamati **status code, headers, response time, dan response size**. Praktikum ini bertujuan memahami perbedaan karakteristik JSON dan XML dalam Web Service.
 
