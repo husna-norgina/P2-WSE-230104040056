@@ -76,9 +76,10 @@ https://httpbin.org/xml
 | GET    | `/posts/1` | Mengambil data post format JSON |
 
 **Hasil:**
-![alt text](<1. GET JSON.png>)
-Menampilkan satu objek JSON.
 
+![GET JSON](evidence/1.%20GET%20JSON.png)
+
+Menampilkan satu objek JSON.
 Server merespons status **200 OK**.
 
 Response dianalisis berdasarkan **Time, Size, Headers, dan Body**.
@@ -92,9 +93,10 @@ Response dianalisis berdasarkan **Time, Size, Headers, dan Body**.
 | GET    | `/xml`   | Mengambil data format XML |
 
 **Hasil:**
-![alt text](<2. GET XML.png>)
-Menampilkan struktur XML berbasis tag.
 
+![GET XML](evidence/2.%20GET%20XML.png)
+
+Menampilkan struktur XML berbasis tag.
 Server merespons status **200 OK**.
 
 Response time relatif lebih lambat dibanding JSON.
@@ -108,7 +110,9 @@ Response time relatif lebih lambat dibanding JSON.
 | GET    | `/posts/1` | Analisis response JSON via Network Panel |
 
 **Hasil:**
-![alt text](<3. Browser JSON.png>)
+
+![Browser JSON](evidence/3.%20Browser%20JSON.png)
+
 Data JSON ditampilkan di tab **Preview/Response**.
 
 Informasi **Transferred Size** dan **Timing** dianalisis.
@@ -122,7 +126,9 @@ Informasi **Transferred Size** dan **Timing** dianalisis.
 | GET    | `/xml`   | Analisis XML via Network Panel |
 
 **Hasil:**
-![alt text](<4. Browser XML.png>)
+
+![Browser XML](evidence/4.%20Browser%20XML.png)
+
 Struktur XML ditampilkan pada tab **Response**.
 
 Response time dan size dibandingkan dengan JSON.
@@ -144,9 +150,11 @@ Response time dan size dibandingkan dengan JSON.
 
 [230104040056_Husna Norgina_P2](<evidence/230104040056_Husna Norgina_P2.pdf>)
 
+
 ---
 
-> Semua hasil uji Postman, DevTools, dan laporan praktikum disimpan di folder: `./evidence/`
+> Semua screenshot hasil uji endpoint dan laporan praktikum disimpan pada folder:  
+> 📂 `./evidence/`
 
 ---
 
